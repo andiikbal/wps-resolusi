@@ -3,3 +3,4 @@ WPS Resolusi
 - Konsisten mempelajari Laravel
 - Konsisten mempelajari Javascript
 - Konsisten mempelajari React
+- Membuat Konten tentang Aplikasi POS
