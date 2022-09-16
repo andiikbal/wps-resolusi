@@ -1,6 +1,6 @@
 WPS Resolusi
 - Membuat Aplikasi POS berbasis Website
 - Konsisten mempelajari Laravel
-- Konsisten mempelajari Javascript
+- Konsisten mempelejari JQuery
 - Konsisten mempelajari React
 - Membuat Konten tentang Aplikasi POS
